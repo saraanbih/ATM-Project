@@ -1,0 +1,4 @@
+﻿  ATM Project.cpp
+C:\Users\AS\Desktop\ATM Project\ATM Project\ATM Project.cpp(48,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AS\Desktop\ATM Project\ATM Project\ATM Project.cpp(304,11): warning C4129: 'Q': unrecognized character escape sequence
+  ATM Project.vcxproj -> C:\Users\AS\Desktop\ATM Project\x64\Debug\ATM Project.exe
